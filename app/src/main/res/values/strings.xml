@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Data Binding intent</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">SAVE</string>
+</resources>
